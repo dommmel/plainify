@@ -37,3 +37,4 @@ Some comments
 * all coffeescript files in ``assets_src/coffee``will be joint into a single file called ``application.js``
 * The only less file that will be compiled is ``application.less``. You should @import all your other less files there.
 * Images can also be organized into subfolders within ``assets_src/img``. The script will simply copy all files (regardless of whether it really is an image or not) over to the assets folder.
+* Font-Awesome will be intergrated into boostrap.css. The file for IE7 support will be compiled to font-awesome-ie7.css so it can be included as needed.
