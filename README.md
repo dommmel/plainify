@@ -19,7 +19,10 @@ Put your files in
 Building your assets
 ---------------------
 
-Run ``make``
+```bash
+cd assets_src
+make
+```
 
 
 
